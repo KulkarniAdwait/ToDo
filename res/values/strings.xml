@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="intentEditPosition">editPosition</string>
+    <string name="addButtonText">Add</string>
+    <string name="saveButtonText">Save</string>
+    <string name="intentItemText">ItemText</string>
+    <string name="newItemHintText">Enter New Item</string>
+    <string name="intentEditedTodo">editedTodo</string>
+    <string name="editItemText">Edit Item Below</string>
+    <string name="title_activity_edit">EditActivity</string>
+
+</resources>
